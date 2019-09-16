@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Family &amp; Friends</string>
+    <string name="user">Nombre</string>
+    <string name="phone">Télefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción</string>
+    <string name="date">Fecha</string>
+    <string name="createUser">Contacto</string>
+    <string name="send">Crea un Amigo y una Familia</string>
+    <string name="cdSend">Editar Datos</string>
+    <string name="cdTitle">Confirmar Datos</string>
+</resources>
